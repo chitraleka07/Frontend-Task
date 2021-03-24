@@ -7,8 +7,11 @@ Youtube UI project using React JS. The project implements react routing.
 Steps to run the server:
 
 1.Download code from '+code' icon in this page
-2.Open cmd prompt from where the folder has been downloaded
+
+2.Open cmd prompt from where the folder has been downloaded.
+
 3.In cmd prompt type 'npm install'
+
 4.After the packages being installed.To start server type 'npm start'
 
 
