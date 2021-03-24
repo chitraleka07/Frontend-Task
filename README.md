@@ -15,6 +15,8 @@ Steps to run the server:
 4.After the packages being installed.To start server type 'npm start'
 
 
+
+
 ![8835c001-e71a-469e-98ae-b10571d33822](https://user-images.githubusercontent.com/72698065/112284326-200fbd80-8caf-11eb-92c7-6eec8986ce32.jpg)
 
 
